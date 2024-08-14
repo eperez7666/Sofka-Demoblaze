@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.erickperez.demoblaze.runners.PurchaseFlowTest" skipped="0" tests="1" time="32.64" timestamp="2024-08-14 12:49:43"><testcase classname="com.erickperez.demoblaze.runners.PurchaseFlowTest" name="User should be able to complete purchase flow"/></testsuite>

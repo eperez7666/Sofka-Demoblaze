@@ -1,0 +1,9 @@
+com\erickperez\demoblaze\questions\IsProductInCart.class
+com\erickperez\demoblaze\runners\PurchaseFlowTest.class
+com\erickperez\demoblaze\utils\WebDriverUtils.class
+com\erickperez\demoblaze\tasks\PlaceOrder.class
+com\erickperez\demoblaze\ui\ProductPage.class
+com\erickperez\demoblaze\actions\AcceptAlert.class
+com\erickperez\demoblaze\ui\CartPage.class
+com\erickperez\demoblaze\tasks\NavigateToCart.class
+com\erickperez\demoblaze\tasks\AddToCart.class
